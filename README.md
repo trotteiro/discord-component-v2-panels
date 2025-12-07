@@ -10,7 +10,7 @@
 ---
 
 
-**Made by [trote1ro](https://github.com/trote1ro)**
+**Made by [Trotteiro](https://github.com/Trotteiro)**
 
 </div>
 
@@ -19,7 +19,7 @@
 ## ⚙️ Kurulum
 
 ```bash
-git clone https://github.com/trote1ro/discord-component-v2-panels.git
+git clone https://github.com/Trotteiro/discord-component-v2-panels.git
 cd discord-component-v2-panels
 npm install
 ```
@@ -132,6 +132,6 @@ await panel.replyInteraction(interaction);           // interaction yanıtı
 
 ### ⭐ Star this repo if you like it!
 
-**[trote1ro](https://github.com/trote1ro)** © 2025
+**[Trotteiro](https://github.com/Trotteiro)** © 2025
 
 </div>
